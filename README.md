@@ -1,4 +1,7 @@
 # Build Your Own Regex
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/build-your-own-regex.svg)](https://www.guardrails.io)
+
 This is a test spec driven guide to help you build a simple regex engine.
 
 This regex engine supports the following syntax:
